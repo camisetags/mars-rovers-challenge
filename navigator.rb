@@ -1,6 +1,6 @@
-require_relative "classes/nasa/plateau"
-require_relative "classes/nasa/rover"
-require_relative "classes/file_reader"
+require_relative "lib/nasa/plateau"
+require_relative "lib/nasa/rover"
+require_relative "lib/file_reader"
 
 input_file = FileReader.new("inputs.txt");
 

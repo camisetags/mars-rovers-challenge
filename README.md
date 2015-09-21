@@ -33,7 +33,5 @@ O programa consome os dados localizados em **inputs.txt**.
 Sendo assim, basta entrar no diretório do projeto e executar o comando:
 
 ```
-#!ruby
-
 ruby navigator.rb
 ```
