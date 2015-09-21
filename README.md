@@ -30,4 +30,9 @@ Expected Output:
 
 # Como rodar o programa #
 Basta entrar no diretório do projeto e executar o comando:
-'ruby navigator.rb'
+
+```
+#!ruby
+
+ruby navigator.rb
+```
