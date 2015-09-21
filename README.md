@@ -29,6 +29,7 @@ Expected Output:
 5 1 E
 
 # Como rodar o programa #
+O programa consome os dados localizados em **inputs.txt**.
 Basta entrar no diretório do projeto e executar o comando:
 
 ```
