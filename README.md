@@ -34,9 +34,9 @@ Expected Output:
 ```
 
 
-# Como rodar o programa #
-O programa consome os dados localizados em **inputs.txt**.
-Sendo assim, basta entrar no diretório do projeto e executar o comando:
+# How to run #
+The program consumes the data located in ** inputs.txt **.
+So, just enter the project directory and execute the command:
 
 ```
 ruby navigator.rb
